@@ -20,3 +20,8 @@ h1 {
   strong {
     font-weight: bold; 
   }
+  p2 {
+    font-family: 'Arial', sans-serif; 
+    font-size: 1.2em;
+    font-style: italic;
+  }
