@@ -1,0 +1,22 @@
+/* Tytul wiersza */
+h1 {
+    font-family: 'Architects Daughter', cursive;
+    font-weight: bold;
+    font-size: 2em;
+  }
+  
+  /* Caly tekst wiersza */
+  p {
+    font-family: 'Arial', sans-serif; 
+    font-size: 1.2em;
+    line-height: 1.6;
+  }
+  
+  /* Stylowanie konkretnych fragmentow */
+  em {
+    font-style: italic; 
+  }
+  
+  strong {
+    font-weight: bold; 
+  }
